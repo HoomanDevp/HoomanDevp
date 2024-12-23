@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hdevel0per" target="blank"><img src="https://img.shields.io/twitter/follow/hdevel0per?logo=twitter&style=for-the-badge" alt="hdevel0per" /></a> </p>
 
-- 🔭 I’m currently working on [Tejarat Core Banking](https://www.tejaratbank.ir/web_directory/2978-Tejarat-Bank.html)
+- 🔭 I’m currently working on [CBI Projects]
 
 - 🌱 I’m currently learning **DevOps Tools ...**
 
